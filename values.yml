@@ -1,0 +1,6 @@
+name: "Down the Rabbit Hole"
+description: |
+  We recently intercepted some traffic between the Matrix and the real world. It is our belief that the messages may contain access codes to the Zion mainframe. These codes are vital to our success in eliminating the human resistance. Here is the [conversation](http://$static_file_server/nc-3810c6011c6f4e3e91e817e9319ca40c/challenge.pcap).
+  
+  MD5: 35646fba3cf34319d2d125fd3b8a7e6f
+flag: "MCA-8B9B37E3"
